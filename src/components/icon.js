@@ -42,10 +42,6 @@ function Icon({
 
   const relativeSize = 16 * size;
 
-  const svgPathRegex = /^M.?[0-9]+/;
-
-  const customIcon = svgPathRegex.test(icon);
-
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

@@ -1,6 +1,4 @@
 import React from 'react';
-import IconBox from '../../components/IconBox.js';
-import TowC from '../../assets/icons/07010TowC.js'
 
 import './actions.css';
 
