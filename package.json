@@ -2,7 +2,6 @@
   "name": "pwa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mkgillespie.github.io/",
   "dependencies": {
     "bodymovin": "4.13.0",
     "google-map-react": "^0.25.0",
