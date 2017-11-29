@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'AllState';
+  src: url("./assets/font/AllStateLight.eot?#iefix") format("embedded-opentype"), url("./assets/font/AllStateLight.woff") format("woff"), url("./assets/font/AllStateLight.ttf") format("truetype"), url("./assets/font/AllStateLight.svg#.") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'AllState';
+  src: url("./assets/font/AllState.eot?#iefix") format("embedded-opentype"), url("./assets/font/AllState.woff") format("woff"), url("./assets/font/AllState.ttf") format("truetype"), url("./assets/font/AllState.svg#.") format("svg");
+  font-weight: bold;
+  font-style: normal; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'AllState', Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  color: #1b3f60;
+  box-sizing: border-box; }
